@@ -11,7 +11,7 @@
 
 > **Short description:** Physics‑informed ensemble for 12‑hour city–region temperature forecasts. Advection–diffusion prior + ConvLSTM + RAFL + edRVFL‑SC for extreme‑event early warnings.
 
-**Keywords:** physics‑informed ML, ConvLSTM, ensemble learning, RAFL, advection–diffusion prior, urban climate analytics, heatwave/cold‑snap detection, NASA POWER, reproducible research, edge‑friendly inference, spatio‑temporal forecasting, early‑warning system, city‑region climate, extreme‑event modeling.
+**Keywords:** physics‑informed ML, ConvLSTM, ensemble learning, RAFL, advection–diffusion prior, urban climate analytics, heatwave/cold‑snap detection, NASA POWER, edge‑friendly inference, spatio‑temporal forecasting, early‑warning system, city‑region climate, extreme‑event modeling.
 
 ---
 
